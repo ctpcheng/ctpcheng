@@ -5,7 +5,9 @@ My name is Chris. I am a software engineer obsessed with JavaScript, React, Redu
 Javascript, Typescript, HTML5, CSS3, React, React Router, Redux, Node.js, Express.js, PostgreSQL, MongoDB, Jest, GIT
 
 **Contact**
+
 ctpcheng@gmail.com
+
 https://www.linkedin.com/in/ctpcheng/
 
     
